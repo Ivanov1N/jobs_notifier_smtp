@@ -9,7 +9,7 @@ For the automation of the script I deployed it on AWS EC2 instance and scheduled
 
 ## Dependencies
 
-* Python 3, requests, pandas, BeautifulSoup4
+* Python 3, requests, BeautifulSoup4, smtplib
 
 ## Executing/testing the program
 
